@@ -1,0 +1,16 @@
+PODS:
+  - EBGaramondFontiOS (0.1.0)
+
+DEPENDENCIES:
+  - EBGaramondFontiOS (from `../`)
+
+EXTERNAL SOURCES:
+  EBGaramondFontiOS:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EBGaramondFontiOS: 1de362ae52ee10c65481cdd2321cf1925e4701d6
+
+PODFILE CHECKSUM: c0b7b838750877ab765c741fc362873c54afd9e6
+
+COCOAPODS: 1.0.1

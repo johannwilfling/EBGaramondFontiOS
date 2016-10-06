@@ -1,0 +1,6 @@
+framework module EBGaramondFontiOS {
+  umbrella header "EBGaramondFontiOS-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "EBGaramondFontiOS",
+  "version": "0.1.0",
+  "summary": "A short description of EBGaramondFontiOS.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/EBGaramondFontiOS",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Johann Wilfling": "johann.wilfling@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/EBGaramondFontiOS.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EBGaramondFontiOS/Classes/**/*"
+}
