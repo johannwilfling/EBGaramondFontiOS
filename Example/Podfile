@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EBGaramondFontiOS_Example' do
+  pod 'EBGaramondFontiOS', :path => '../'
+
+  target 'EBGaramondFontiOS_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
