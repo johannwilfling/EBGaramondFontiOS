@@ -1,22 +1,24 @@
 {
   "name": "EBGaramondFontiOS",
   "version": "0.1.0",
-  "summary": "A short description of EBGaramondFontiOS.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/EBGaramondFontiOS",
-  "license": {
-    "type": "MIT",
-    "file": "LICENSE"
-  },
+  "summary": "Provides the font family EBGaramond.",
+  "description": "Provides the font family EBGaramond for iOS.",
+  "homepage": "https://github.com/johannwilfling/EBGaramondFontiOS",
+  "license": "MIT",
   "authors": {
     "Johann Wilfling": "johann.wilfling@gmail.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/EBGaramondFontiOS.git",
+    "git": "https://github.com/johannwilfling/EBGaramondFontiOS.git",
     "tag": "0.1.0"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "EBGaramondFontiOS/Classes/**/*"
+  "source_files": "EBGaramondFontiOS/Classes/**/*",
+  "resource_bundles": {
+    "EBGaramondFontiOS": [
+      "EBGaramondFontiOS/Assets/*.otf"
+    ]
+  }
 }
