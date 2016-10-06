@@ -27,7 +27,23 @@ public extension UIFont {
         FontLoader.loadFontIfNeeded()
         return UIFont(name: EBGaramondFonts.EBGaramond12Italic.rawValue, size: fontSize)!
     }
-    
+
+    // small caps
+    public class func ebGaramond12AllSCFontWithSize(fontSize: CGFloat) -> UIFont {
+        FontLoader.loadFontIfNeeded()
+        return UIFont(name: EBGaramondFonts.EBGaramond12AllSC.rawValue, size: fontSize)!
+    }
+
+    public class func ebGaramondSC08RegularFontWithSize(fontSize: CGFloat) -> UIFont {
+        FontLoader.loadFontIfNeeded()
+        return UIFont(name: EBGaramondFonts.EBGaramondSC08Regular.rawValue, size: fontSize)!
+    }
+
+    public class func ebGaramondSC12RegularFontWithSize(fontSize: CGFloat) -> UIFont {
+        FontLoader.loadFontIfNeeded()
+        return UIFont(name: EBGaramondFonts.EBGaramondSC12Regular.rawValue, size: fontSize)!
+    }
+
 }
 
 private enum EBGaramondFonts: String {
@@ -39,8 +55,15 @@ private enum EBGaramondFonts: String {
     case EBGaramond08Italic = "EBGaramond08-Italic"
     case EBGaramond12Italic = "EBGaramond12-Italic"
     
+    // small caps
+    case EBGaramond12AllSC = "EBGaramond12-AllSC"
+    case EBGaramondSC08Regular = "EBGaramondSC08-Regular"
+    case EBGaramondSC12Regular = "EBGaramondSC12-Regular"
+    
+    
     static let allValues = [
-        EBGaramond08Regular, EBGaramond12Regular, EBGaramond08Italic, EBGaramond12Italic
+        EBGaramond08Regular, EBGaramond12Regular, EBGaramond08Italic, EBGaramond12Italic,
+        EBGaramond12AllSC, EBGaramondSC08Regular, EBGaramondSC12Regular
     ]
 }
 
@@ -58,11 +81,11 @@ private class FontLoader {
                 var fontURL = NSURL()
                 let identifier = bundle.bundleIdentifier
                 
-                for vegurFont in EBGaramondFonts.allValues {
+                for ebGaramondFont in EBGaramondFonts.allValues {
                     if identifier?.hasPrefix("org.cocoapods") == true {
-                        fontURL = bundle.URLForResource(vegurFont.rawValue, withExtension: "otf", subdirectory: "EBGaramondFontiOS.bundle")!
+                        fontURL = bundle.URLForResource(ebGaramondFont.rawValue, withExtension: "otf", subdirectory: "EBGaramondFontiOS.bundle")!
                     } else {
-                        fontURL = bundle.URLForResource(vegurFont.rawValue, withExtension: "otf")!
+                        fontURL = bundle.URLForResource(ebGaramondFont.rawValue, withExtension: "otf")!
                     }
                     let data = NSData(contentsOfURL: fontURL)!
                     

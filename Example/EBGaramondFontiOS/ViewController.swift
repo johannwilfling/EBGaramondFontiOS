@@ -18,8 +18,8 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
         
-        label.text = "This is EB Garamond 08 Regular."
-        label.font = UIFont.ebGaramond08RegularFontWithSize(17.0)
+        label.text = "This is EB Garamond Small Caps 12 Regular."
+        label.font = UIFont.ebGaramondSC12RegularFontWithSize(17.0)
     }
 
     override func didReceiveMemoryWarning() {
