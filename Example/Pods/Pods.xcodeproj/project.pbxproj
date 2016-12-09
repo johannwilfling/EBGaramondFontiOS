@@ -7,39 +7,39 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		02A2347BB9B351304052FB0B61E6FA2A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
-		067217342483F33052913DF77E14B086 /* Pods-EBGaramondFontiOS_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 83C68262E273E2912DE5836DD2220DD4 /* Pods-EBGaramondFontiOS_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		13709784CAE1FACFABD315FCC5FAD7E5 /* EBGaramond08-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 31276FBC107A1C426030FCF14EE11465 /* EBGaramond08-Regular.otf */; };
-		1AE199EED5AC622BE15960EABF4EB88B /* EBGaramondFontiOS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 74F08EB7BF16ED94F02BE6882B2A2A2C /* EBGaramondFontiOS-dummy.m */; };
-		1F22511EF67C8A2FEC88489042E020F8 /* EBGaramondSC08-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = F300C58C9C043FA2B5517EBFC9AA981A /* EBGaramondSC08-Regular.otf */; };
-		375680671DA693F800082E2D /* EBGaramondFontiOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 375680661DA693F800082E2D /* EBGaramondFontiOS.swift */; };
-		444C2E1A39803A5025A4A83F94C7545C /* Pods-EBGaramondFontiOS_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 857EE894158A173B1C8F2C792821E554 /* Pods-EBGaramondFontiOS_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		457F92DBB69B820E11FAE913826A44D7 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
-		671CC85EF04D150399C35A88BFB626FC /* EBGaramondFontiOS-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 539480ABDAB1E272FD516DF7C38CA032 /* EBGaramondFontiOS-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6F352DB033AFE2F0510DBBF485B45AF7 /* Pods-EBGaramondFontiOS_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D8B2E8D11937C15EED2E83500FA76FC /* Pods-EBGaramondFontiOS_Tests-dummy.m */; };
-		7038363A599D2379BE086DDCBA7C0D81 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */; };
-		716502789373E7DBC114837CFECC80D7 /* EBGaramondFontiOS.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F9F3AF8E9A4B1F62DA23CEB91306E44D /* EBGaramondFontiOS.bundle */; };
-		7943D6D44D631540B572331ED2F63728 /* EBGaramond12-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 59A88E209F117E708B65E3D8345597A8 /* EBGaramond12-Regular.otf */; };
-		848483FF7ADA0207901F220521067B42 /* EBGaramond12-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1B639BE508B22676DF553FB0E28F6005 /* EBGaramond12-Italic.otf */; };
-		97CB44EB04A4C319FA1C60B895A5B8C7 /* EBGaramondSC12-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = C8F26F0B6399A433B6584304A64CB4AB /* EBGaramondSC12-Regular.otf */; };
-		E0D214970AD2C56E6411C272DC0248C7 /* EBGaramond08-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 47356B5592BC3318D0F893B2B6E93F38 /* EBGaramond08-Italic.otf */; };
-		ED8F75EDB7AF7867B21A7BF5BAAC738B /* EBGaramond12-AllSC.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7D7EA8E99D498C8606D5E58528A2FB7C /* EBGaramond12-AllSC.otf */; };
-		F210AA18D4A6E0B6A8194E0BB3CECD74 /* Pods-EBGaramondFontiOS_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 83DCDF1253DFB77250078A0EAF013A2B /* Pods-EBGaramondFontiOS_Example-dummy.m */; };
+		06024CCBBD0F11A447BB5D42348DDF6A /* EBGaramond08-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 47356B5592BC3318D0F893B2B6E93F38 /* EBGaramond08-Italic.otf */; };
+		0958DF345905357202BB12984477F8CF /* Pods-EBGaramondFontiOS_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 5D8B2E8D11937C15EED2E83500FA76FC /* Pods-EBGaramondFontiOS_Tests-dummy.m */; };
+		0B6BFDBE7AC36DCA78383D4360F7CB25 /* EBGaramond12-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 1B639BE508B22676DF553FB0E28F6005 /* EBGaramond12-Italic.otf */; };
+		1630BE760D32548F1F620953B68A6DF7 /* EBGaramondSC12-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = C8F26F0B6399A433B6584304A64CB4AB /* EBGaramondSC12-Regular.otf */; };
+		184F466CD0BB5E6F4EF28641A84B5064 /* Pods-EBGaramondFontiOS_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 83DCDF1253DFB77250078A0EAF013A2B /* Pods-EBGaramondFontiOS_Example-dummy.m */; };
+		26B58EC7D242E4921A623BBA908C4EEA /* EBGaramondFontiOS-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 74F08EB7BF16ED94F02BE6882B2A2A2C /* EBGaramondFontiOS-dummy.m */; };
+		2C238914BE53B96B2009744D94114C6F /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
+		35A17B269C420CC5A08B5E09F733F1C6 /* EBGaramond08-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 31276FBC107A1C426030FCF14EE11465 /* EBGaramond08-Regular.otf */; };
+		3E67C560CF9A5D45DC4588EA619B918B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
+		42A1353FB5167C61B82E36C766FBC140 /* Pods-EBGaramondFontiOS_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 857EE894158A173B1C8F2C792821E554 /* Pods-EBGaramondFontiOS_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		6736FD4CBA243158B335243E81963EA0 /* EBGaramond12-AllSC.otf in Resources */ = {isa = PBXBuildFile; fileRef = 7D7EA8E99D498C8606D5E58528A2FB7C /* EBGaramond12-AllSC.otf */; };
+		7843B9C151285B5D538DE3765FEDA854 /* EBGaramondFontiOS-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 539480ABDAB1E272FD516DF7C38CA032 /* EBGaramondFontiOS-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		80989C3B304E94695F9EF0E7C85BA536 /* Pods-EBGaramondFontiOS_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 83C68262E273E2912DE5836DD2220DD4 /* Pods-EBGaramondFontiOS_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A0469DD5E4413471D120F5ADC880411E /* EBGaramondFontiOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 35B1F15450EFC8FDF92F52D392992E5E /* EBGaramondFontiOS.swift */; };
+		C25FEED03758CFC36E99F72E24CD013C /* EBGaramond12-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = 59A88E209F117E708B65E3D8345597A8 /* EBGaramond12-Regular.otf */; };
+		C8AB4F11938F780A14F3E0DE3A5B9CB5 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */; };
+		EE3AF0B1C3A8520BD35DD193778BA6AF /* EBGaramondFontiOS.bundle in Resources */ = {isa = PBXBuildFile; fileRef = F9F3AF8E9A4B1F62DA23CEB91306E44D /* EBGaramondFontiOS.bundle */; };
+		EE74734C5D96351530BE2E556F4641CA /* EBGaramondSC08-Regular.otf in Resources */ = {isa = PBXBuildFile; fileRef = F300C58C9C043FA2B5517EBFC9AA981A /* EBGaramondSC08-Regular.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		4C5BA70BDC42475293C69AE7881C74C9 /* PBXContainerItemProxy */ = {
+		1B250609604A028CA8B2C09679EE5A6F /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 621059F4BBA9EED1EE9366CDAD1A157D;
+			remoteGlobalIDString = 87AA8230EB56081D5102F3F4B1E05C0F;
 			remoteInfo = EBGaramondFontiOS;
 		};
-		5206E66F487863E5776E24A952CB5B2C /* PBXContainerItemProxy */ = {
+		47FFF1262F1AFACCEE2FD4F78D1EB016 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = F6124CBCC9CECD3A275D1CA9A1A12E1C;
+			remoteGlobalIDString = ED83212CEB92C19BCF7BE38EA475A8A2;
 			remoteInfo = "EBGaramondFontiOS-EBGaramondFontiOS";
 		};
 /* End PBXContainerItemProxy section */
@@ -53,7 +53,7 @@
 		2E95D5D21DEAA02016DBDBB681D9AC6A /* Pods-EBGaramondFontiOS_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-EBGaramondFontiOS_Tests.modulemap"; sourceTree = "<group>"; };
 		31264580DCBB406ECE2B54FD68923188 /* Pods-EBGaramondFontiOS_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EBGaramondFontiOS_Example.release.xcconfig"; sourceTree = "<group>"; };
 		31276FBC107A1C426030FCF14EE11465 /* EBGaramond08-Regular.otf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "EBGaramond08-Regular.otf"; sourceTree = "<group>"; };
-		375680661DA693F800082E2D /* EBGaramondFontiOS.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EBGaramondFontiOS.swift; sourceTree = "<group>"; };
+		35B1F15450EFC8FDF92F52D392992E5E /* EBGaramondFontiOS.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = EBGaramondFontiOS.swift; sourceTree = "<group>"; };
 		448441175037521449ECAFED2A71E3ED /* Pods-EBGaramondFontiOS_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EBGaramondFontiOS_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		47356B5592BC3318D0F893B2B6E93F38 /* EBGaramond08-Italic.otf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "EBGaramond08-Italic.otf"; sourceTree = "<group>"; };
 		47C5FF2F1E27FFBF33B9198163679EA9 /* Pods-EBGaramondFontiOS_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EBGaramondFontiOS_Example-frameworks.sh"; sourceTree = "<group>"; };
@@ -79,7 +79,7 @@
 		B31A84A3FCED078A56002D2E17699609 /* EBGaramondFontiOS.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = EBGaramondFontiOS.xcconfig; sourceTree = "<group>"; };
 		BDA775AC4726DEC963896D25617303EB /* Pods-EBGaramondFontiOS_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EBGaramondFontiOS_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		C8F26F0B6399A433B6584304A64CB4AB /* EBGaramondSC12-Regular.otf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "EBGaramondSC12-Regular.otf"; sourceTree = "<group>"; };
-		CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
+		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		DCE6064F52EA393ABE701D782E4CC436 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E4DFCE017C4D7F5350BA1DB3FE3793D7 /* Pods-EBGaramondFontiOS_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-EBGaramondFontiOS_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E8FAB2D7532F378E16B49D93EF874259 /* Pods-EBGaramondFontiOS_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EBGaramondFontiOS_Tests.release.xcconfig"; sourceTree = "<group>"; };
@@ -89,34 +89,34 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		2A1D55DD90A8AB7491C9A94BCB8E8DD9 /* Frameworks */ = {
+		07C514CBFEDA995CC369B8BB79C6D25D /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				457F92DBB69B820E11FAE913826A44D7 /* Foundation.framework in Frameworks */,
+				3E67C560CF9A5D45DC4588EA619B918B /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3C04CD058C451E51B7FC070FCD83663E /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				02A2347BB9B351304052FB0B61E6FA2A /* Foundation.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		3D4B5818181F83E701CED05626E6FF65 /* Frameworks */ = {
+		334BB8444E4925F11673ECA86A2848E5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		60963263A9FC8F5C7426774C9DF39C2D /* Frameworks */ = {
+		50EF4C6CFDF6C9697B504FA779F64A31 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7038363A599D2379BE086DDCBA7C0D81 /* Foundation.framework in Frameworks */,
+				C8AB4F11938F780A14F3E0DE3A5B9CB5 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		5C6306C54E9EFF641C85A12498261472 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C238914BE53B96B2009744D94114C6F /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -145,25 +145,9 @@
 		34B76B311228F4268E488A79459830D0 /* EBGaramondFontiOS */ = {
 			isa = PBXGroup;
 			children = (
-				3B8301C14BF28D0ABAA836C7A428EDAB /* Classes */,
+				97B22CA0E3005F465837768F790D20B7 /* Classes */,
 			);
 			path = EBGaramondFontiOS;
-			sourceTree = "<group>";
-		};
-		3B8301C14BF28D0ABAA836C7A428EDAB /* Classes */ = {
-			isa = PBXGroup;
-			children = (
-				375680661DA693F800082E2D /* EBGaramondFontiOS.swift */,
-			);
-			path = Classes;
-			sourceTree = "<group>";
-		};
-		3DCAB2B7CDE207B3958B6CB957FCC758 /* iOS */ = {
-			isa = PBXGroup;
-			children = (
-				CEC22C73C1608DFA5D5D78BDCB218219 /* Foundation.framework */,
-			);
-			name = iOS;
 			sourceTree = "<group>";
 		};
 		6F8C01E9F0C175E4C69C6992250FC651 /* Support Files */ = {
@@ -179,6 +163,14 @@
 			);
 			name = "Support Files";
 			path = "Example/Pods/Target Support Files/EBGaramondFontiOS";
+			sourceTree = "<group>";
+		};
+		7531C8F8DE19F1AA3C8A7AC97A91DC29 /* iOS */ = {
+			isa = PBXGroup;
+			children = (
+				CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */,
+			);
+			name = iOS;
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -200,10 +192,18 @@
 			name = Resources;
 			sourceTree = "<group>";
 		};
+		97B22CA0E3005F465837768F790D20B7 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				35B1F15450EFC8FDF92F52D392992E5E /* EBGaramondFontiOS.swift */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		BC3CA7F9E30CC8F7E2DD044DD34432FC /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
-				3DCAB2B7CDE207B3958B6CB957FCC758 /* iOS */,
+				7531C8F8DE19F1AA3C8A7AC97A91DC29 /* iOS */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -289,77 +289,40 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		19BA04F5C98EE2CD5B00AE4ADD3F676A /* Headers */ = {
+		1BF29BD1F4C3D1724E9B2EB6794BAD08 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				671CC85EF04D150399C35A88BFB626FC /* EBGaramondFontiOS-umbrella.h in Headers */,
+				7843B9C151285B5D538DE3765FEDA854 /* EBGaramondFontiOS-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		710A3ACC4363180C0108DA57D91DCF56 /* Headers */ = {
+		2B0FE2D5B47C4A492C2F7FB9AD871EC8 /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				067217342483F33052913DF77E14B086 /* Pods-EBGaramondFontiOS_Tests-umbrella.h in Headers */,
+				42A1353FB5167C61B82E36C766FBC140 /* Pods-EBGaramondFontiOS_Example-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		D1E84357B39B8AFB84894C1688321A28 /* Headers */ = {
+		839907748FE75C4D42612C09BFF4D7CD /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				444C2E1A39803A5025A4A83F94C7545C /* Pods-EBGaramondFontiOS_Example-umbrella.h in Headers */,
+				80989C3B304E94695F9EF0E7C85BA536 /* Pods-EBGaramondFontiOS_Tests-umbrella.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		621059F4BBA9EED1EE9366CDAD1A157D /* EBGaramondFontiOS */ = {
+		00084F61B91BC7FC80C7E5C034D9DAFC /* Pods-EBGaramondFontiOS_Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 373490AE0888C3F27AA23D81BFF0D78F /* Build configuration list for PBXNativeTarget "EBGaramondFontiOS" */;
+			buildConfigurationList = 90353AB2928A51496EE5869C344F6966 /* Build configuration list for PBXNativeTarget "Pods-EBGaramondFontiOS_Tests" */;
 			buildPhases = (
-				70DF71D26B64953E87AB14B4099BFC1A /* Sources */,
-				60963263A9FC8F5C7426774C9DF39C2D /* Frameworks */,
-				BBE0E23E277350EADC0F3BB154931BB1 /* Resources */,
-				19BA04F5C98EE2CD5B00AE4ADD3F676A /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				C8CD98E2EA8664C2863C291F77DB9930 /* PBXTargetDependency */,
-			);
-			name = EBGaramondFontiOS;
-			productName = EBGaramondFontiOS;
-			productReference = 0BB67AE7E93E8E3CA00FF036A0DC128B /* EBGaramondFontiOS.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		667EF9D37AC83058123CAF8FEA67A6C6 /* Pods-EBGaramondFontiOS_Example */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 28E60A90A823738EFBBE141E53E44A9C /* Build configuration list for PBXNativeTarget "Pods-EBGaramondFontiOS_Example" */;
-			buildPhases = (
-				6BC94F4A7EDE56DF542DDC9819217183 /* Sources */,
-				3C04CD058C451E51B7FC070FCD83663E /* Frameworks */,
-				D1E84357B39B8AFB84894C1688321A28 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				85EC0678FE0E2A7B05BFEFB4527F2279 /* PBXTargetDependency */,
-			);
-			name = "Pods-EBGaramondFontiOS_Example";
-			productName = "Pods-EBGaramondFontiOS_Example";
-			productReference = 071301A08D61FBB0A4E5AC9A16FD5F4D /* Pods_EBGaramondFontiOS_Example.framework */;
-			productType = "com.apple.product-type.framework";
-		};
-		849721D6456C28733F809D4C9350CC19 /* Pods-EBGaramondFontiOS_Tests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 016C83A6692A12FD3992F6E9D7973608 /* Build configuration list for PBXNativeTarget "Pods-EBGaramondFontiOS_Tests" */;
-			buildPhases = (
-				B68AD2F8BA8AF1767AE78CBA7FFB2549 /* Sources */,
-				2A1D55DD90A8AB7491C9A94BCB8E8DD9 /* Frameworks */,
-				710A3ACC4363180C0108DA57D91DCF56 /* Headers */,
+				483B1DE5C502D95C102700CF251AD85E /* Sources */,
+				5C6306C54E9EFF641C85A12498261472 /* Frameworks */,
+				839907748FE75C4D42612C09BFF4D7CD /* Headers */,
 			);
 			buildRules = (
 			);
@@ -370,13 +333,50 @@
 			productReference = 0831991A1F3BB79FFD9A17938A61F52D /* Pods_EBGaramondFontiOS_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
-		F6124CBCC9CECD3A275D1CA9A1A12E1C /* EBGaramondFontiOS-EBGaramondFontiOS */ = {
+		5A34E84DC9349B486437FDBB76B498C9 /* Pods-EBGaramondFontiOS_Example */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3782FB3CC76D161A1947FBAF89407850 /* Build configuration list for PBXNativeTarget "EBGaramondFontiOS-EBGaramondFontiOS" */;
+			buildConfigurationList = 5F8EE566EDA37F8FE858E0DDA1434B23 /* Build configuration list for PBXNativeTarget "Pods-EBGaramondFontiOS_Example" */;
 			buildPhases = (
-				7D11F2029EE8C5B80F6F8E274B656890 /* Sources */,
-				3D4B5818181F83E701CED05626E6FF65 /* Frameworks */,
-				8D11A00C86B4180907B84A5770396AC1 /* Resources */,
+				482D7264E42384185FFD96F89335AD95 /* Sources */,
+				50EF4C6CFDF6C9697B504FA779F64A31 /* Frameworks */,
+				2B0FE2D5B47C4A492C2F7FB9AD871EC8 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				06F2AEA13ECADAD62D5BF5DFFF155CC8 /* PBXTargetDependency */,
+			);
+			name = "Pods-EBGaramondFontiOS_Example";
+			productName = "Pods-EBGaramondFontiOS_Example";
+			productReference = 071301A08D61FBB0A4E5AC9A16FD5F4D /* Pods_EBGaramondFontiOS_Example.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		87AA8230EB56081D5102F3F4B1E05C0F /* EBGaramondFontiOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EF88ADB14111A350CFAAAFE72F8F0FF4 /* Build configuration list for PBXNativeTarget "EBGaramondFontiOS" */;
+			buildPhases = (
+				D973F9C1908859E68209D9BD2A06332E /* Sources */,
+				07C514CBFEDA995CC369B8BB79C6D25D /* Frameworks */,
+				D030F9B4C0E805F8EF616BAE167B54DA /* Resources */,
+				1BF29BD1F4C3D1724E9B2EB6794BAD08 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B9A9BC8524D1D1B30CB8727E0D0BA51E /* PBXTargetDependency */,
+			);
+			name = EBGaramondFontiOS;
+			productName = EBGaramondFontiOS;
+			productReference = 0BB67AE7E93E8E3CA00FF036A0DC128B /* EBGaramondFontiOS.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+		ED83212CEB92C19BCF7BE38EA475A8A2 /* EBGaramondFontiOS-EBGaramondFontiOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EBF8458BFA41EA2A0E74352A9C127A9F /* Build configuration list for PBXNativeTarget "EBGaramondFontiOS-EBGaramondFontiOS" */;
+			buildPhases = (
+				86B05859874504DA2BF301FC04C8C0EA /* Sources */,
+				334BB8444E4925F11673ECA86A2848E5 /* Frameworks */,
+				9434724DCC11C87247D636108C07D2BD /* Resources */,
 			);
 			buildRules = (
 			);
@@ -395,6 +395,14 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0700;
+				TargetAttributes = {
+					5A34E84DC9349B486437FDBB76B498C9 = {
+						LastSwiftMigration = 0810;
+					};
+					87AA8230EB56081D5102F3F4B1E05C0F = {
+						LastSwiftMigration = 0810;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -408,91 +416,244 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				621059F4BBA9EED1EE9366CDAD1A157D /* EBGaramondFontiOS */,
-				F6124CBCC9CECD3A275D1CA9A1A12E1C /* EBGaramondFontiOS-EBGaramondFontiOS */,
-				667EF9D37AC83058123CAF8FEA67A6C6 /* Pods-EBGaramondFontiOS_Example */,
-				849721D6456C28733F809D4C9350CC19 /* Pods-EBGaramondFontiOS_Tests */,
+				87AA8230EB56081D5102F3F4B1E05C0F /* EBGaramondFontiOS */,
+				ED83212CEB92C19BCF7BE38EA475A8A2 /* EBGaramondFontiOS-EBGaramondFontiOS */,
+				5A34E84DC9349B486437FDBB76B498C9 /* Pods-EBGaramondFontiOS_Example */,
+				00084F61B91BC7FC80C7E5C034D9DAFC /* Pods-EBGaramondFontiOS_Tests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		8D11A00C86B4180907B84A5770396AC1 /* Resources */ = {
+		9434724DCC11C87247D636108C07D2BD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				E0D214970AD2C56E6411C272DC0248C7 /* EBGaramond08-Italic.otf in Resources */,
-				13709784CAE1FACFABD315FCC5FAD7E5 /* EBGaramond08-Regular.otf in Resources */,
-				ED8F75EDB7AF7867B21A7BF5BAAC738B /* EBGaramond12-AllSC.otf in Resources */,
-				848483FF7ADA0207901F220521067B42 /* EBGaramond12-Italic.otf in Resources */,
-				7943D6D44D631540B572331ED2F63728 /* EBGaramond12-Regular.otf in Resources */,
-				1F22511EF67C8A2FEC88489042E020F8 /* EBGaramondSC08-Regular.otf in Resources */,
-				97CB44EB04A4C319FA1C60B895A5B8C7 /* EBGaramondSC12-Regular.otf in Resources */,
+				06024CCBBD0F11A447BB5D42348DDF6A /* EBGaramond08-Italic.otf in Resources */,
+				35A17B269C420CC5A08B5E09F733F1C6 /* EBGaramond08-Regular.otf in Resources */,
+				6736FD4CBA243158B335243E81963EA0 /* EBGaramond12-AllSC.otf in Resources */,
+				0B6BFDBE7AC36DCA78383D4360F7CB25 /* EBGaramond12-Italic.otf in Resources */,
+				C25FEED03758CFC36E99F72E24CD013C /* EBGaramond12-Regular.otf in Resources */,
+				EE74734C5D96351530BE2E556F4641CA /* EBGaramondSC08-Regular.otf in Resources */,
+				1630BE760D32548F1F620953B68A6DF7 /* EBGaramondSC12-Regular.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BBE0E23E277350EADC0F3BB154931BB1 /* Resources */ = {
+		D030F9B4C0E805F8EF616BAE167B54DA /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				716502789373E7DBC114837CFECC80D7 /* EBGaramondFontiOS.bundle in Resources */,
+				EE3AF0B1C3A8520BD35DD193778BA6AF /* EBGaramondFontiOS.bundle in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		6BC94F4A7EDE56DF542DDC9819217183 /* Sources */ = {
+		482D7264E42384185FFD96F89335AD95 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F210AA18D4A6E0B6A8194E0BB3CECD74 /* Pods-EBGaramondFontiOS_Example-dummy.m in Sources */,
+				184F466CD0BB5E6F4EF28641A84B5064 /* Pods-EBGaramondFontiOS_Example-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		70DF71D26B64953E87AB14B4099BFC1A /* Sources */ = {
+		483B1DE5C502D95C102700CF251AD85E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1AE199EED5AC622BE15960EABF4EB88B /* EBGaramondFontiOS-dummy.m in Sources */,
-				375680671DA693F800082E2D /* EBGaramondFontiOS.swift in Sources */,
+				0958DF345905357202BB12984477F8CF /* Pods-EBGaramondFontiOS_Tests-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		7D11F2029EE8C5B80F6F8E274B656890 /* Sources */ = {
+		86B05859874504DA2BF301FC04C8C0EA /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		B68AD2F8BA8AF1767AE78CBA7FFB2549 /* Sources */ = {
+		D973F9C1908859E68209D9BD2A06332E /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6F352DB033AFE2F0510DBBF485B45AF7 /* Pods-EBGaramondFontiOS_Tests-dummy.m in Sources */,
+				26B58EC7D242E4921A623BBA908C4EEA /* EBGaramondFontiOS-dummy.m in Sources */,
+				A0469DD5E4413471D120F5ADC880411E /* EBGaramondFontiOS.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		85EC0678FE0E2A7B05BFEFB4527F2279 /* PBXTargetDependency */ = {
+		06F2AEA13ECADAD62D5BF5DFFF155CC8 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = EBGaramondFontiOS;
-			target = 621059F4BBA9EED1EE9366CDAD1A157D /* EBGaramondFontiOS */;
-			targetProxy = 4C5BA70BDC42475293C69AE7881C74C9 /* PBXContainerItemProxy */;
+			target = 87AA8230EB56081D5102F3F4B1E05C0F /* EBGaramondFontiOS */;
+			targetProxy = 1B250609604A028CA8B2C09679EE5A6F /* PBXContainerItemProxy */;
 		};
-		C8CD98E2EA8664C2863C291F77DB9930 /* PBXTargetDependency */ = {
+		B9A9BC8524D1D1B30CB8727E0D0BA51E /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = "EBGaramondFontiOS-EBGaramondFontiOS";
-			target = F6124CBCC9CECD3A275D1CA9A1A12E1C /* EBGaramondFontiOS-EBGaramondFontiOS */;
-			targetProxy = 5206E66F487863E5776E24A952CB5B2C /* PBXContainerItemProxy */;
+			target = ED83212CEB92C19BCF7BE38EA475A8A2 /* EBGaramondFontiOS-EBGaramondFontiOS */;
+			targetProxy = 47FFF1262F1AFACCEE2FD4F78D1EB016 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		0ACDCBCB0B6796575F46FFA2F5410C6B /* Release */ = {
+		11E6AF89A863A15BC105FF0AA1153A7F /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B31A84A3FCED078A56002D2E17699609 /* EBGaramondFontiOS.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/EBGaramondFontiOS/EBGaramondFontiOS-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/EBGaramondFontiOS/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/EBGaramondFontiOS/EBGaramondFontiOS.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				PRODUCT_NAME = EBGaramondFontiOS;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		2D329E47C39EA3B9D89EB91AD99685DC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B31A84A3FCED078A56002D2E17699609 /* EBGaramondFontiOS.xcconfig */;
+			buildSettings = {
+				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/EBGaramondFontiOS";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/EBGaramondFontiOS/ResourceBundle-EBGaramondFontiOS-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_NAME = EBGaramondFontiOS;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = bundle;
+			};
+			name = Release;
+		};
+		2E5B1AEA2FD16ADCA53B39A81044A341 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 31264580DCBB406ECE2B54FD68923188 /* Pods-EBGaramondFontiOS_Example.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-EBGaramondFontiOS_Example/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-EBGaramondFontiOS_Example/Pods-EBGaramondFontiOS_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_EBGaramondFontiOS_Example;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		5436FD009795F83BFCC1F27887626CE6 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = E8FAB2D7532F378E16B49D93EF874259 /* Pods-EBGaramondFontiOS_Tests.release.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				INFOPLIST_FILE = "Target Support Files/Pods-EBGaramondFontiOS_Tests/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MACH_O_TYPE = staticlib;
+				MODULEMAP_FILE = "Target Support Files/Pods-EBGaramondFontiOS_Tests/Pods-EBGaramondFontiOS_Tests.modulemap";
+				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PODS_ROOT = "$(SRCROOT)";
+				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
+				PRODUCT_NAME = Pods_EBGaramondFontiOS_Tests;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		86F8FAAFE0F43E6D49BEFE187BBADDF5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B31A84A3FCED078A56002D2E17699609 /* EBGaramondFontiOS.xcconfig */;
+			buildSettings = {
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_PREFIX_HEADER = "Target Support Files/EBGaramondFontiOS/EBGaramondFontiOS-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/EBGaramondFontiOS/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/EBGaramondFontiOS/EBGaramondFontiOS.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
+				PRODUCT_NAME = EBGaramondFontiOS;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		8DED8AD26D381A6ACFF202E5217EC498 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -510,6 +671,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -524,17 +686,20 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
 				SYMROOT = "${SRCROOT}/../build";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		10418323F1EABB5199F274990BB9E71D /* Debug */ = {
+		8FF2113280EA1AD8499F309C46D7CAA9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 787DB04A3A454DBB98FEB4A2EB2F3772 /* Pods-EBGaramondFontiOS_Tests.debug.xcconfig */;
 			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
 				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEFINES_MODULE = YES;
@@ -563,121 +728,7 @@
 			};
 			name = Debug;
 		};
-		517B98ADCD5CEE5E7039BD1E6E0344F0 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 894ACB15BD052DF7CEDEAC1CD5A45C58 /* Pods-EBGaramondFontiOS_Example.debug.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-EBGaramondFontiOS_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-EBGaramondFontiOS_Example/Pods-EBGaramondFontiOS_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_EBGaramondFontiOS_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		81DD93227C021909566538D8CD7CCB24 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 31264580DCBB406ECE2B54FD68923188 /* Pods-EBGaramondFontiOS_Example.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-EBGaramondFontiOS_Example/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-EBGaramondFontiOS_Example/Pods-EBGaramondFontiOS_Example.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PODS_ROOT = "$(SRCROOT)";
-				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_EBGaramondFontiOS_Example;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		A87079EB5414FA118C57184C0411A2F1 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = B31A84A3FCED078A56002D2E17699609 /* EBGaramondFontiOS.xcconfig */;
-			buildSettings = {
-				CONFIGURATION_BUILD_DIR = "$(BUILD_DIR)/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)/EBGaramondFontiOS";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/EBGaramondFontiOS/ResourceBundle-EBGaramondFontiOS-Info.plist";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				PRODUCT_NAME = EBGaramondFontiOS;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				WRAPPER_EXTENSION = bundle;
-			};
-			name = Debug;
-		};
-		C8D3AB3AFBF1DAFE432E85A5618D5CD6 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = B31A84A3FCED078A56002D2E17699609 /* EBGaramondFontiOS.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = dwarf;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/EBGaramondFontiOS/EBGaramondFontiOS-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/EBGaramondFontiOS/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/EBGaramondFontiOS/EBGaramondFontiOS.modulemap";
-				MTL_ENABLE_DEBUG_INFO = YES;
-				PRODUCT_NAME = EBGaramondFontiOS;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
-		D3E3D092A3FF7311A98E44BBA36FFD12 /* Debug */ = {
+		9E1E4E48AF2EAB23169E611BF694090A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -695,6 +746,7 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				CODE_SIGNING_REQUIRED = NO;
 				COPY_PHASE_STRIP = NO;
 				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
@@ -714,74 +766,50 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				ONLY_ACTIVE_ARCH = YES;
+				PROVISIONING_PROFILE_SPECIFIER = NO_SIGNING/;
 				STRIP_INSTALLED_PRODUCT = NO;
 				SYMROOT = "${SRCROOT}/../build";
 			};
 			name = Debug;
 		};
-		D7E9B528519A94A4484C877B398F31DD /* Release */ = {
+		AEE33A411DD8B3C5C17F0C02E6FC575B /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = B31A84A3FCED078A56002D2E17699609 /* EBGaramondFontiOS.xcconfig */;
+			baseConfigurationReference = 894ACB15BD052DF7CEDEAC1CD5A45C58 /* Pods-EBGaramondFontiOS_Example.debug.xcconfig */;
 			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
 				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEBUG_INFORMATION_FORMAT = dwarf;
 				DEFINES_MODULE = YES;
 				DYLIB_COMPATIBILITY_VERSION = 1;
 				DYLIB_CURRENT_VERSION = 1;
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
-				GCC_PREFIX_HEADER = "Target Support Files/EBGaramondFontiOS/EBGaramondFontiOS-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/EBGaramondFontiOS/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/EBGaramondFontiOS/EBGaramondFontiOS.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
-				PRODUCT_NAME = EBGaramondFontiOS;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		EC64944091D7A1654050FC687CC2527A /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = E8FAB2D7532F378E16B49D93EF874259 /* Pods-EBGaramondFontiOS_Tests.release.xcconfig */;
-			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
-				CURRENT_PROJECT_VERSION = 1;
-				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				GCC_NO_COMMON_BLOCKS = YES;
-				INFOPLIST_FILE = "Target Support Files/Pods-EBGaramondFontiOS_Tests/Info.plist";
+				INFOPLIST_FILE = "Target Support Files/Pods-EBGaramondFontiOS_Example/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
-				MODULEMAP_FILE = "Target Support Files/Pods-EBGaramondFontiOS_Tests/Pods-EBGaramondFontiOS_Tests.modulemap";
-				MTL_ENABLE_DEBUG_INFO = NO;
+				MODULEMAP_FILE = "Target Support Files/Pods-EBGaramondFontiOS_Example/Pods-EBGaramondFontiOS_Example.modulemap";
+				MTL_ENABLE_DEBUG_INFO = YES;
 				OTHER_LDFLAGS = "";
 				OTHER_LIBTOOLFLAGS = "";
 				PODS_ROOT = "$(SRCROOT)";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.${PRODUCT_NAME:rfc1034identifier}";
-				PRODUCT_NAME = Pods_EBGaramondFontiOS_Tests;
+				PRODUCT_NAME = Pods_EBGaramondFontiOS_Example;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
 			};
-			name = Release;
+			name = Debug;
 		};
-		F02C671702998FE5C172FE6DA9BD272E /* Release */ = {
+		EF98350B78ED96AC181C43827A904069 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = B31A84A3FCED078A56002D2E17699609 /* EBGaramondFontiOS.xcconfig */;
 			buildSettings = {
@@ -796,52 +824,52 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = bundle;
 			};
-			name = Release;
+			name = Debug;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		016C83A6692A12FD3992F6E9D7973608 /* Build configuration list for PBXNativeTarget "Pods-EBGaramondFontiOS_Tests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				10418323F1EABB5199F274990BB9E71D /* Debug */,
-				EC64944091D7A1654050FC687CC2527A /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		28E60A90A823738EFBBE141E53E44A9C /* Build configuration list for PBXNativeTarget "Pods-EBGaramondFontiOS_Example" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				517B98ADCD5CEE5E7039BD1E6E0344F0 /* Debug */,
-				81DD93227C021909566538D8CD7CCB24 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				D3E3D092A3FF7311A98E44BBA36FFD12 /* Debug */,
-				0ACDCBCB0B6796575F46FFA2F5410C6B /* Release */,
+				9E1E4E48AF2EAB23169E611BF694090A /* Debug */,
+				8DED8AD26D381A6ACFF202E5217EC498 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		373490AE0888C3F27AA23D81BFF0D78F /* Build configuration list for PBXNativeTarget "EBGaramondFontiOS" */ = {
+		5F8EE566EDA37F8FE858E0DDA1434B23 /* Build configuration list for PBXNativeTarget "Pods-EBGaramondFontiOS_Example" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				C8D3AB3AFBF1DAFE432E85A5618D5CD6 /* Debug */,
-				D7E9B528519A94A4484C877B398F31DD /* Release */,
+				AEE33A411DD8B3C5C17F0C02E6FC575B /* Debug */,
+				2E5B1AEA2FD16ADCA53B39A81044A341 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3782FB3CC76D161A1947FBAF89407850 /* Build configuration list for PBXNativeTarget "EBGaramondFontiOS-EBGaramondFontiOS" */ = {
+		90353AB2928A51496EE5869C344F6966 /* Build configuration list for PBXNativeTarget "Pods-EBGaramondFontiOS_Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				A87079EB5414FA118C57184C0411A2F1 /* Debug */,
-				F02C671702998FE5C172FE6DA9BD272E /* Release */,
+				8FF2113280EA1AD8499F309C46D7CAA9 /* Debug */,
+				5436FD009795F83BFCC1F27887626CE6 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EBF8458BFA41EA2A0E74352A9C127A9F /* Build configuration list for PBXNativeTarget "EBGaramondFontiOS-EBGaramondFontiOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EF98350B78ED96AC181C43827A904069 /* Debug */,
+				2D329E47C39EA3B9D89EB91AD99685DC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EF88ADB14111A350CFAAAFE72F8F0FF4 /* Build configuration list for PBXNativeTarget "EBGaramondFontiOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				86F8FAAFE0F43E6D49BEFE187BBADDF5 /* Debug */,
+				11E6AF89A863A15BC105FF0AA1153A7F /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

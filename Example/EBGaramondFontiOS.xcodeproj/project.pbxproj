@@ -7,14 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1CBE01FC3CABFDA097E1965D /* Pods_EBGaramondFontiOS_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CA4CE04F6227DF42B8D77E85 /* Pods_EBGaramondFontiOS_Tests.framework */; };
 		607FACD61AFB9204008FA782 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD51AFB9204008FA782 /* AppDelegate.swift */; };
 		607FACD81AFB9204008FA782 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACD71AFB9204008FA782 /* ViewController.swift */; };
 		607FACDB1AFB9204008FA782 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 607FACD91AFB9204008FA782 /* Main.storyboard */; };
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
-		7F347085C182E4B5E9BFCFAA /* Pods_EBGaramondFontiOS_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 091ECC0CA4ACB42ED4FFC977 /* Pods_EBGaramondFontiOS_Example.framework */; };
+		816179F6992DB99E6691E85F /* Pods_EBGaramondFontiOS_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9967CB4A8B5A0DCC5C42E97B /* Pods_EBGaramondFontiOS_Tests.framework */; };
+		8E105AE5F30D905E82D558AC /* Pods_EBGaramondFontiOS_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D9620273B4D819A59F6AF5FF /* Pods_EBGaramondFontiOS_Example.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -29,8 +29,9 @@
 
 /* Begin PBXFileReference section */
 		015D81D922B55A7EDD4D0B21 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
-		091ECC0CA4ACB42ED4FFC977 /* Pods_EBGaramondFontiOS_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EBGaramondFontiOS_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2BC2CC0AF1041F057AAECE45 /* Pods-EBGaramondFontiOS_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EBGaramondFontiOS_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-EBGaramondFontiOS_Example/Pods-EBGaramondFontiOS_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		21ED738FA62140BD608669C2 /* Pods-EBGaramondFontiOS_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EBGaramondFontiOS_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-EBGaramondFontiOS_Tests/Pods-EBGaramondFontiOS_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		2CF6D11BA2661512DD3C8CDB /* Pods-EBGaramondFontiOS_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EBGaramondFontiOS_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-EBGaramondFontiOS_Example/Pods-EBGaramondFontiOS_Example.release.xcconfig"; sourceTree = "<group>"; };
+		2D1A1B4938CF954D7750E06A /* Pods-EBGaramondFontiOS_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EBGaramondFontiOS_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-EBGaramondFontiOS_Tests/Pods-EBGaramondFontiOS_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		4D403C99BEA178D08421A888 /* EBGaramondFontiOS.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = EBGaramondFontiOS.podspec; path = ../EBGaramondFontiOS.podspec; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* EBGaramondFontiOS_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EBGaramondFontiOS_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -43,10 +44,9 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		640463A32BDDB092EB6F1070 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		6CEDC2D4E750D8AD75DB9EAF /* Pods-EBGaramondFontiOS_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EBGaramondFontiOS_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-EBGaramondFontiOS_Tests/Pods-EBGaramondFontiOS_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		CA4CE04F6227DF42B8D77E85 /* Pods_EBGaramondFontiOS_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EBGaramondFontiOS_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		D7CFABB47639D4017260FEDA /* Pods-EBGaramondFontiOS_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EBGaramondFontiOS_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-EBGaramondFontiOS_Tests/Pods-EBGaramondFontiOS_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		EFB83F1994C9D547E6E081FA /* Pods-EBGaramondFontiOS_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EBGaramondFontiOS_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-EBGaramondFontiOS_Example/Pods-EBGaramondFontiOS_Example.release.xcconfig"; sourceTree = "<group>"; };
+		6D74B2AB168465F11C9080B4 /* Pods-EBGaramondFontiOS_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EBGaramondFontiOS_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-EBGaramondFontiOS_Example/Pods-EBGaramondFontiOS_Example.debug.xcconfig"; sourceTree = "<group>"; };
+		9967CB4A8B5A0DCC5C42E97B /* Pods_EBGaramondFontiOS_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EBGaramondFontiOS_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		D9620273B4D819A59F6AF5FF /* Pods_EBGaramondFontiOS_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EBGaramondFontiOS_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,7 +54,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7F347085C182E4B5E9BFCFAA /* Pods_EBGaramondFontiOS_Example.framework in Frameworks */,
+				8E105AE5F30D905E82D558AC /* Pods_EBGaramondFontiOS_Example.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -62,33 +62,13 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1CBE01FC3CABFDA097E1965D /* Pods_EBGaramondFontiOS_Tests.framework in Frameworks */,
+				816179F6992DB99E6691E85F /* Pods_EBGaramondFontiOS_Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		01849060227087E1E853D1DF /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				091ECC0CA4ACB42ED4FFC977 /* Pods_EBGaramondFontiOS_Example.framework */,
-				CA4CE04F6227DF42B8D77E85 /* Pods_EBGaramondFontiOS_Tests.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		2DA37FE0E3ABBE6433B208B3 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				2BC2CC0AF1041F057AAECE45 /* Pods-EBGaramondFontiOS_Example.debug.xcconfig */,
-				EFB83F1994C9D547E6E081FA /* Pods-EBGaramondFontiOS_Example.release.xcconfig */,
-				D7CFABB47639D4017260FEDA /* Pods-EBGaramondFontiOS_Tests.debug.xcconfig */,
-				6CEDC2D4E750D8AD75DB9EAF /* Pods-EBGaramondFontiOS_Tests.release.xcconfig */,
-			);
-			name = Pods;
-			sourceTree = "<group>";
-		};
 		607FACC71AFB9204008FA782 = {
 			isa = PBXGroup;
 			children = (
@@ -96,8 +76,8 @@
 				607FACD21AFB9204008FA782 /* Example for EBGaramondFontiOS */,
 				607FACE81AFB9204008FA782 /* Tests */,
 				607FACD11AFB9204008FA782 /* Products */,
-				2DA37FE0E3ABBE6433B208B3 /* Pods */,
-				01849060227087E1E853D1DF /* Frameworks */,
+				6F08B4A92359804022E1FA31 /* Pods */,
+				B3CBA2AD1E15A75232206EE3 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -159,6 +139,26 @@
 			name = "Podspec Metadata";
 			sourceTree = "<group>";
 		};
+		6F08B4A92359804022E1FA31 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				6D74B2AB168465F11C9080B4 /* Pods-EBGaramondFontiOS_Example.debug.xcconfig */,
+				2CF6D11BA2661512DD3C8CDB /* Pods-EBGaramondFontiOS_Example.release.xcconfig */,
+				21ED738FA62140BD608669C2 /* Pods-EBGaramondFontiOS_Tests.debug.xcconfig */,
+				2D1A1B4938CF954D7750E06A /* Pods-EBGaramondFontiOS_Tests.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		B3CBA2AD1E15A75232206EE3 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D9620273B4D819A59F6AF5FF /* Pods_EBGaramondFontiOS_Example.framework */,
+				9967CB4A8B5A0DCC5C42E97B /* Pods_EBGaramondFontiOS_Tests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -166,12 +166,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 607FACEF1AFB9204008FA782 /* Build configuration list for PBXNativeTarget "EBGaramondFontiOS_Example" */;
 			buildPhases = (
-				A4DF594667554227B4BA1C6A /* [CP] Check Pods Manifest.lock */,
+				8BC8908A8DCCCE8A47DFAD50 /* [CP] Check Pods Manifest.lock */,
 				607FACCC1AFB9204008FA782 /* Sources */,
 				607FACCD1AFB9204008FA782 /* Frameworks */,
 				607FACCE1AFB9204008FA782 /* Resources */,
-				EF235A7C9C638DC4B9EC4F5F /* [CP] Embed Pods Frameworks */,
-				21C6445A0ECB28613832F164 /* [CP] Copy Pods Resources */,
+				59C5C436DACCCC10524F026D /* [CP] Embed Pods Frameworks */,
+				C8E65951FB4884990AA3559D /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -186,12 +186,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 607FACF21AFB9204008FA782 /* Build configuration list for PBXNativeTarget "EBGaramondFontiOS_Tests" */;
 			buildPhases = (
-				FC665CD43C913EBF8F509206 /* [CP] Check Pods Manifest.lock */,
+				17E61D3D11742F391A00E2EA /* [CP] Check Pods Manifest.lock */,
 				607FACE11AFB9204008FA782 /* Sources */,
 				607FACE21AFB9204008FA782 /* Frameworks */,
 				607FACE31AFB9204008FA782 /* Resources */,
-				0CE6C07FFC7A1A5930E7D643 /* [CP] Embed Pods Frameworks */,
-				FE32530676601C84CA29B1D4 /* [CP] Copy Pods Resources */,
+				3FF924423F1EEAAD30204DA1 /* [CP] Embed Pods Frameworks */,
+				E02987B7A0F0E91BA5554234 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -210,14 +210,16 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0720;
-				LastUpgradeCheck = 0720;
+				LastUpgradeCheck = 0810;
 				ORGANIZATIONNAME = CocoaPods;
 				TargetAttributes = {
 					607FACCF1AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						LastSwiftMigration = 0810;
 					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
+						LastSwiftMigration = 0810;
 						TestTargetID = 607FACCF1AFB9204008FA782;
 					};
 				};
@@ -262,7 +264,22 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		0CE6C07FFC7A1A5930E7D643 /* [CP] Embed Pods Frameworks */ = {
+		17E61D3D11742F391A00E2EA /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+		3FF924423F1EEAAD30204DA1 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -277,37 +294,7 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-EBGaramondFontiOS_Tests/Pods-EBGaramondFontiOS_Tests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		21C6445A0ECB28613832F164 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-EBGaramondFontiOS_Example/Pods-EBGaramondFontiOS_Example-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		A4DF594667554227B4BA1C6A /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		EF235A7C9C638DC4B9EC4F5F /* [CP] Embed Pods Frameworks */ = {
+		59C5C436DACCCC10524F026D /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -322,7 +309,7 @@
 			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-EBGaramondFontiOS_Example/Pods-EBGaramondFontiOS_Example-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		FC665CD43C913EBF8F509206 /* [CP] Check Pods Manifest.lock */ = {
+		8BC8908A8DCCCE8A47DFAD50 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -334,10 +321,25 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
 			showEnvVarsInLog = 0;
 		};
-		FE32530676601C84CA29B1D4 /* [CP] Copy Pods Resources */ = {
+		C8E65951FB4884990AA3559D /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-EBGaramondFontiOS_Example/Pods-EBGaramondFontiOS_Example-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		E02987B7A0F0E91BA5554234 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -415,8 +417,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -460,8 +464,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -480,39 +486,44 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
 		607FACF01AFB9204008FA782 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2BC2CC0AF1041F057AAECE45 /* Pods-EBGaramondFontiOS_Example.debug.xcconfig */;
+			baseConfigurationReference = 6D74B2AB168465F11C9080B4 /* Pods-EBGaramondFontiOS_Example.debug.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = EBGaramondFontiOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
 		607FACF11AFB9204008FA782 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = EFB83F1994C9D547E6E081FA /* Pods-EBGaramondFontiOS_Example.release.xcconfig */;
+			baseConfigurationReference = 2CF6D11BA2661512DD3C8CDB /* Pods-EBGaramondFontiOS_Example.release.xcconfig */;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = EBGaramondFontiOS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
 		607FACF31AFB9204008FA782 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D7CFABB47639D4017260FEDA /* Pods-EBGaramondFontiOS_Tests.debug.xcconfig */;
+			baseConfigurationReference = 21ED738FA62140BD608669C2 /* Pods-EBGaramondFontiOS_Tests.debug.xcconfig */;
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -526,12 +537,13 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
 		607FACF41AFB9204008FA782 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 6CEDC2D4E750D8AD75DB9EAF /* Pods-EBGaramondFontiOS_Tests.release.xcconfig */;
+			baseConfigurationReference = 2D1A1B4938CF954D7750E06A /* Pods-EBGaramondFontiOS_Tests.release.xcconfig */;
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -541,6 +553,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
