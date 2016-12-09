@@ -45,47 +45,47 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		071301A08D61FBB0A4E5AC9A16FD5F4D /* Pods_EBGaramondFontiOS_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_EBGaramondFontiOS_Example.framework; path = "Pods-EBGaramondFontiOS_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0831991A1F3BB79FFD9A17938A61F52D /* Pods_EBGaramondFontiOS_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_EBGaramondFontiOS_Tests.framework; path = "Pods-EBGaramondFontiOS_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		0BB67AE7E93E8E3CA00FF036A0DC128B /* EBGaramondFontiOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = EBGaramondFontiOS.framework; path = EBGaramondFontiOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		1B639BE508B22676DF553FB0E28F6005 /* EBGaramond12-Italic.otf */ = {isa = PBXFileReference; includeInIndex = 1; path = "EBGaramond12-Italic.otf"; sourceTree = "<group>"; };
+		071301A08D61FBB0A4E5AC9A16FD5F4D /* Pods_EBGaramondFontiOS_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EBGaramondFontiOS_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0831991A1F3BB79FFD9A17938A61F52D /* Pods_EBGaramondFontiOS_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EBGaramondFontiOS_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		0BB67AE7E93E8E3CA00FF036A0DC128B /* EBGaramondFontiOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = EBGaramondFontiOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		1B639BE508B22676DF553FB0E28F6005 /* EBGaramond12-Italic.otf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "EBGaramond12-Italic.otf"; sourceTree = "<group>"; };
 		23BF67EF0FEA2CCA384C4F292341A25C /* Pods-EBGaramondFontiOS_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-EBGaramondFontiOS_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		2E95D5D21DEAA02016DBDBB681D9AC6A /* Pods-EBGaramondFontiOS_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-EBGaramondFontiOS_Tests.modulemap"; sourceTree = "<group>"; };
+		2E95D5D21DEAA02016DBDBB681D9AC6A /* Pods-EBGaramondFontiOS_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-EBGaramondFontiOS_Tests.modulemap"; sourceTree = "<group>"; };
 		31264580DCBB406ECE2B54FD68923188 /* Pods-EBGaramondFontiOS_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EBGaramondFontiOS_Example.release.xcconfig"; sourceTree = "<group>"; };
-		31276FBC107A1C426030FCF14EE11465 /* EBGaramond08-Regular.otf */ = {isa = PBXFileReference; includeInIndex = 1; path = "EBGaramond08-Regular.otf"; sourceTree = "<group>"; };
+		31276FBC107A1C426030FCF14EE11465 /* EBGaramond08-Regular.otf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "EBGaramond08-Regular.otf"; sourceTree = "<group>"; };
 		35B1F15450EFC8FDF92F52D392992E5E /* EBGaramondFontiOS.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; path = EBGaramondFontiOS.swift; sourceTree = "<group>"; };
 		448441175037521449ECAFED2A71E3ED /* Pods-EBGaramondFontiOS_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EBGaramondFontiOS_Tests-frameworks.sh"; sourceTree = "<group>"; };
-		47356B5592BC3318D0F893B2B6E93F38 /* EBGaramond08-Italic.otf */ = {isa = PBXFileReference; includeInIndex = 1; path = "EBGaramond08-Italic.otf"; sourceTree = "<group>"; };
+		47356B5592BC3318D0F893B2B6E93F38 /* EBGaramond08-Italic.otf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "EBGaramond08-Italic.otf"; sourceTree = "<group>"; };
 		47C5FF2F1E27FFBF33B9198163679EA9 /* Pods-EBGaramondFontiOS_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EBGaramondFontiOS_Example-frameworks.sh"; sourceTree = "<group>"; };
 		539480ABDAB1E272FD516DF7C38CA032 /* EBGaramondFontiOS-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "EBGaramondFontiOS-umbrella.h"; sourceTree = "<group>"; };
 		543C22B30A15A84C77057703BE19C860 /* Pods-EBGaramondFontiOS_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EBGaramondFontiOS_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		54DEBA0AC3F87D26AF698F4D539EFB3D /* EBGaramondFontiOS-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "EBGaramondFontiOS-prefix.pch"; sourceTree = "<group>"; };
-		59A88E209F117E708B65E3D8345597A8 /* EBGaramond12-Regular.otf */ = {isa = PBXFileReference; includeInIndex = 1; path = "EBGaramond12-Regular.otf"; sourceTree = "<group>"; };
+		59A88E209F117E708B65E3D8345597A8 /* EBGaramond12-Regular.otf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "EBGaramond12-Regular.otf"; sourceTree = "<group>"; };
 		5D8B2E8D11937C15EED2E83500FA76FC /* Pods-EBGaramondFontiOS_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-EBGaramondFontiOS_Tests-dummy.m"; sourceTree = "<group>"; };
 		7030B92BC9CC6941EA23DE589B93027F /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		74F08EB7BF16ED94F02BE6882B2A2A2C /* EBGaramondFontiOS-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "EBGaramondFontiOS-dummy.m"; sourceTree = "<group>"; };
 		787DB04A3A454DBB98FEB4A2EB2F3772 /* Pods-EBGaramondFontiOS_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EBGaramondFontiOS_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		7D7EA8E99D498C8606D5E58528A2FB7C /* EBGaramond12-AllSC.otf */ = {isa = PBXFileReference; includeInIndex = 1; path = "EBGaramond12-AllSC.otf"; sourceTree = "<group>"; };
+		7D7EA8E99D498C8606D5E58528A2FB7C /* EBGaramond12-AllSC.otf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "EBGaramond12-AllSC.otf"; sourceTree = "<group>"; };
 		83C68262E273E2912DE5836DD2220DD4 /* Pods-EBGaramondFontiOS_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-EBGaramondFontiOS_Tests-umbrella.h"; sourceTree = "<group>"; };
 		83DCDF1253DFB77250078A0EAF013A2B /* Pods-EBGaramondFontiOS_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-EBGaramondFontiOS_Example-dummy.m"; sourceTree = "<group>"; };
 		857EE894158A173B1C8F2C792821E554 /* Pods-EBGaramondFontiOS_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-EBGaramondFontiOS_Example-umbrella.h"; sourceTree = "<group>"; };
-		869F240B2C4F15A78BCB95729D8CE61A /* Pods-EBGaramondFontiOS_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-EBGaramondFontiOS_Example.modulemap"; sourceTree = "<group>"; };
+		869F240B2C4F15A78BCB95729D8CE61A /* Pods-EBGaramondFontiOS_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-EBGaramondFontiOS_Example.modulemap"; sourceTree = "<group>"; };
 		894ACB15BD052DF7CEDEAC1CD5A45C58 /* Pods-EBGaramondFontiOS_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EBGaramondFontiOS_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		913FA38B1FF933C00056C698761B353D /* ResourceBundle-EBGaramondFontiOS-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-EBGaramondFontiOS-Info.plist"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9B6B62A70F92B3F81A0892506AFDBFF1 /* Pods-EBGaramondFontiOS_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EBGaramondFontiOS_Tests-resources.sh"; sourceTree = "<group>"; };
 		A08E25D8DA6DBC92B3EB9FB275C46663 /* Pods-EBGaramondFontiOS_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-EBGaramondFontiOS_Example-resources.sh"; sourceTree = "<group>"; };
-		A99350ACD30D26A4C818917655473CEB /* EBGaramondFontiOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = EBGaramondFontiOS.modulemap; sourceTree = "<group>"; };
+		A99350ACD30D26A4C818917655473CEB /* EBGaramondFontiOS.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = EBGaramondFontiOS.modulemap; sourceTree = "<group>"; };
 		B31A84A3FCED078A56002D2E17699609 /* EBGaramondFontiOS.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = EBGaramondFontiOS.xcconfig; sourceTree = "<group>"; };
 		BDA775AC4726DEC963896D25617303EB /* Pods-EBGaramondFontiOS_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-EBGaramondFontiOS_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		C8F26F0B6399A433B6584304A64CB4AB /* EBGaramondSC12-Regular.otf */ = {isa = PBXFileReference; includeInIndex = 1; path = "EBGaramondSC12-Regular.otf"; sourceTree = "<group>"; };
+		C8F26F0B6399A433B6584304A64CB4AB /* EBGaramondSC12-Regular.otf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "EBGaramondSC12-Regular.otf"; sourceTree = "<group>"; };
 		CBB3DE36805AF21409EC968A9691732F /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		DCE6064F52EA393ABE701D782E4CC436 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E4DFCE017C4D7F5350BA1DB3FE3793D7 /* Pods-EBGaramondFontiOS_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-EBGaramondFontiOS_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		E8FAB2D7532F378E16B49D93EF874259 /* Pods-EBGaramondFontiOS_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-EBGaramondFontiOS_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		ED6E60B9B1498DF3A5B458C99A8CEAC6 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		F300C58C9C043FA2B5517EBFC9AA981A /* EBGaramondSC08-Regular.otf */ = {isa = PBXFileReference; includeInIndex = 1; path = "EBGaramondSC08-Regular.otf"; sourceTree = "<group>"; };
-		F9F3AF8E9A4B1F62DA23CEB91306E44D /* EBGaramondFontiOS.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = EBGaramondFontiOS.bundle; path = EBGaramondFontiOS.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
+		F300C58C9C043FA2B5517EBFC9AA981A /* EBGaramondSC08-Regular.otf */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file; path = "EBGaramondSC08-Regular.otf"; sourceTree = "<group>"; };
+		F9F3AF8E9A4B1F62DA23CEB91306E44D /* EBGaramondFontiOS.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EBGaramondFontiOS.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -147,7 +147,6 @@
 			children = (
 				97B22CA0E3005F465837768F790D20B7 /* Classes */,
 			);
-			name = EBGaramondFontiOS;
 			path = EBGaramondFontiOS;
 			sourceTree = "<group>";
 		};
@@ -198,7 +197,6 @@
 			children = (
 				35B1F15450EFC8FDF92F52D392992E5E /* EBGaramondFontiOS.swift */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -233,7 +231,6 @@
 			children = (
 				F26AFC1EB7E454B0D43835BFCBABA282 /* Assets */,
 			);
-			name = EBGaramondFontiOS;
 			path = EBGaramondFontiOS;
 			sourceTree = "<group>";
 		};
@@ -286,7 +283,6 @@
 				F300C58C9C043FA2B5517EBFC9AA981A /* EBGaramondSC08-Regular.otf */,
 				C8F26F0B6399A433B6584304A64CB4AB /* EBGaramondSC12-Regular.otf */,
 			);
-			name = Assets;
 			path = Assets;
 			sourceTree = "<group>";
 		};
@@ -399,6 +395,14 @@
 			attributes = {
 				LastSwiftUpdateCheck = 0730;
 				LastUpgradeCheck = 0700;
+				TargetAttributes = {
+					5A34E84DC9349B486437FDBB76B498C9 = {
+						LastSwiftMigration = 0810;
+					};
+					87AA8230EB56081D5102F3F4B1E05C0F = {
+						LastSwiftMigration = 0810;
+					};
+				};
 			};
 			buildConfigurationList = 2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -521,6 +525,7 @@
 				PRODUCT_NAME = EBGaramondFontiOS;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -573,6 +578,7 @@
 				PRODUCT_NAME = Pods_EBGaramondFontiOS_Example;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -640,6 +646,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -795,6 +802,7 @@
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
